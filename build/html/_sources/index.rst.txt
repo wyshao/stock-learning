@@ -1,20 +1,25 @@
-.. stock-book documentation master file, created by
-   sphinx-quickstart on Tue Feb 12 10:10:27 2019.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. _topics-index:
 
-Welcome to stock-book's documentation!
+《新手炒短线 — 从入门到精通》
 ======================================
 
+很多人往往把短线交易和频繁交易混为一谈,或者简单地理解为“追热点”、“追涨停”。
+其实这都是错误的、不全面的。短线的真谛,就在于两个动作 — 跳跃和躲避。
+
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :caption: 新手炒短线的六堂必修课
 
+   看清市场大势
+   认识题材板块
+   跟随市场主力
+   严格资金管理
+   精通炒股工具
+   遵守五大纪律
 
+.. toctree::
+   :caption: 看透K线图
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   K 线图的买点
+   K 线图的卖点
+   缺口的买卖点
+   技术形态的买卖点

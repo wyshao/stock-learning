@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\Users\\Wenyi Shao\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+    "restructuredtext.builtDocumentationPath": "${workspaceRoot}/build/html",
+    "restructuredtext.updateOnTextChanged": "true",
+    "restructuredtext.updateDelay": 300,
+    "restructuredtext.sphinxBuildPath": "sphinx-build",
+    "restructuredtext.confPath": "${workspaceFolder}\\source"
+}
